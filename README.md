@@ -2,8 +2,9 @@
 
 ### Pre-requisites:
 
-- nodejs
-- git (obviously)
+- <a href="https://nodejs.org/en/download/prebuilt-installer">Nodejs</a>
+- <a href="https://git-scm.com/downloads">Git</a> (obviously)
+- <a href="https://code.visualstudio.com/download">Vs Code</a>
 
 ### Get started
 
