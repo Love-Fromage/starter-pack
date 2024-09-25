@@ -1,4 +1,4 @@
-# starter-pack to get started with PHP and SASS
+# Starter-pack to get started with PHP and SASS
 
 ### Pre-requisites:
 
