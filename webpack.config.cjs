@@ -1,11 +1,12 @@
 const webpack = require("webpack");
 const path = require("path");
 const BrowserSyncPlugin = require("browser-sync-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = {
   entry: {
-    main: "./src/main.js",
-    styles: "./src/main.scss",
+    main: "./scripts/main.js",
+    styles: "./scss/main.scss",
   },
 
   output: {
