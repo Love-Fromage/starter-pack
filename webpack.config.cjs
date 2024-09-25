@@ -28,7 +28,12 @@ module.exports = {
     new BrowserSyncPlugin({
       proxy: "localhost:8000",
       port: 3000,
-      files: ["./dist/js/*.js", "./dist/css/*.css", "./dist/*.html"],
+      files: [
+        "./dist/js/*.js",
+        "./dist/css/*.css",
+        "./dist/*.html",
+        "./dist/*.php",
+      ],
       reloadDelay: 0,
       notify: false,
       open: false,
