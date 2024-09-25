@@ -1,0 +1,26 @@
+{
+  "name": "starter-pack",
+  "version": "1.0.0",
+  "description": "starter-pack for web dev php and scss",
+  "type": "module",
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "author": "Mathieu G.",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.19.3",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "gsap": "^3.12.5",
+    "node": "^22.9.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "mini-css-extract-plugin": "^2.7.2",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
