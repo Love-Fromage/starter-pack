@@ -25,6 +25,14 @@
   - Type in `npm run dev`
 - Open your web browser and go to <a href="http://localhost:3000">localhost:3000</a>
 
+### WSL guide
+- Install php
+- Clone the repo
+- cd into the root
+- `npm install`
+- `./server.sh start`
+- `code .`
+
 ### How to use:
 
 #### SCSS
